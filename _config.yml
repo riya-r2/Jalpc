@@ -69,4 +69,4 @@ kramdown:
   syntax_highlighter: rouge
 
 
-theme: jekyll-theme-merlot
+theme: jekyll-theme-cayman
